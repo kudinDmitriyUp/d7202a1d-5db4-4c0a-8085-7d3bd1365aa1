@@ -27,7 +27,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarStyleMinimal
-          logoText="La Stella d'Oro"
+          brandName="La Stella d'Oro"
           button={{
             text: "Prenotazioni",
             href: "contact"
