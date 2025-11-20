@@ -27,7 +27,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarStyleMinimal
-          brandName="La Stella d'Oro"
+          logoText="La Stella d'Oro"
           button={{
             text: "Prenotazioni",
             href: "contact"
@@ -268,7 +268,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterSocial
-          brandName="La Stella d'Oro"
+          logoText="La Stella d'Oro"
           copyrightText="© 2025 La Stella d'Oro. Tutti i diritti riservati."
           columns={[
             {
